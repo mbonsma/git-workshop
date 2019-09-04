@@ -88,7 +88,7 @@ changes so that you can go back in time and see previous versions of things.
 #### Where's my stuff (13)
 * "repository" or "repo" is the collection of files for a particular project.
 
-## Hands-on workshop notes
+## Workshop notes
 
 ````
 # <- this is a comment
@@ -312,9 +312,19 @@ Now you have a copy of my repo that you can do anything you want to. You can
 make changes on GitHub, you can make changes on your computer, and if you want
 to you can request that I add your changes to my copy of the repository as well.
 
+## Notes and tips
 
-## Things to mention
 * You can place any kind of file under version control with Git, but some file types are easier to work with than others.
 * You can make changes to files any way you are comfortable and still use Git to track them.
 * You can do most things on GitHub if you don't want to use the command line.
 * There are lots of nice options for the commands we used: for example, `git diff --color-words` shows the specific words that were changed, `git diff --staged` shows the difference between HEAD and the staging area, or `git log --stat` shows lots of information: modified files, how many lines were added and removed.
+
+## More information and helpful resources
+
+* [Web-based tutorials and hands-on practice](https://try.github.io/)
+* [Simple first-steps guide](https://rogerdudler.github.io/git-guide/)
+* [More in-depth workshop material](https://swcarpentry.github.io/git-novice/) (~3 hours, also good for reference)
+* [Interactive, visual tutorial on branching](https://learngitbranching.js.org/)
+* [How to collaborate on projects with GitHub](http://mozillascience.github.io/working-open-workshop/github_for_collaboration/)
+* [Helpful wiki for using Git and GitHub for project collaboration](https://github.com/KirstieJane/STEMMRoleModels/wiki#table-of-contents)
+* [Huge list of Git tutorials for specific topics](https://www.atlassian.com/git/tutorials)
