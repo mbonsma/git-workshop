@@ -15,7 +15,7 @@ In command prompt:
 
 General setup:
 
-  - Slide show: https://docs.google.com/presentation/d/134FIH1rB_Oef5rTTr_CP5Xcyl0umEI3jDk3709EnHI0/edit?usp=sharing
+  - Slide show: https://docs.google.com/presentation/d/1IjOyrn7ZN8QRMtKzXdKg3epWTQRCSwYgKleJHj7--cM/edit?usp=sharing
 
 Instructions for group:
 
@@ -26,7 +26,7 @@ Instructions for group:
 ## Setup
 
 - Install Git Bash (Windows) or Git for Mac. [Instructions here](http://carpentries.github.io/workshop-template/#git).
-- Make a [GitHub](https://github.com/) account
+- Make a [GitHub](https://github.com/) account.
 
 ## Slide notes
 
@@ -99,7 +99,7 @@ changes so that you can go back in time and see previous versions of things.
 # for Git commands, typing git <command> --help will show a help page
 ````
 
-### Configure your local git setup.
+### Configure your local git setup
 
 This only needs to be done once on your computer. Only the first two commands
 are essential.
